@@ -39,8 +39,9 @@ Logout from client and disconnecting to server!
 ![logout](https://user-images.githubusercontent.com/75630936/175834160-c9e62b23-1969-489d-9059-3035a3e15510.png)
 
 
-
-
+## Features
+- graphical user interface (Tkinter)
+- Multi-client (Threading)
 
 
 ## Authors
