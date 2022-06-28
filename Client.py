@@ -1,7 +1,3 @@
-from cProfile import label
-from cgitb import text
-import imp
-import string
 import tkinter as tk
 from tkinter import Entry
 from tkinter import *
