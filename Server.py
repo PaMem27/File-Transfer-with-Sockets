@@ -1,10 +1,9 @@
-from operator import truediv
 import os
 import socket
 import threading
 import pickle
 from time import process_time_ns, sleep
-from traceback import print_tb
+
 
 # get dynamic host of PC
 IP = socket.gethostbyname(socket.gethostname())
